@@ -26,6 +26,6 @@
   <a href="https://t.me/sk8_pl"><img src="https://img.shields.io/badge/telegram-237199.svg?style=for-the-badge&logo=telegram&logoColor=white"/></a><br/>
   <a href="mailto:platon.sarapul@gmail.com"><img src="https://img.shields.io/badge/email-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a><br/>
   <a href="https://instagram.com/platon.sk"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a><br/>
-  <a href="https://linkedin.com/in/platon-andreevich-36289b234"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/sk8-pl"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
